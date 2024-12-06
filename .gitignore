@@ -1,0 +1,17 @@
+obj/
+# cuz its build folder for dev
+build/
+
+# SKSISAJKIASDF
+.vscode/
+.vs/
+
+Debug/
+Release/
+*.obj
+*.so
+*.dll
+*.exe
+
+*_linux
+# Make sure not end your files named with "_linux" - GuestSneezeOSDev
